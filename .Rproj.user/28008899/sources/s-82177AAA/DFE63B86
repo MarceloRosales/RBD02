@@ -3,7 +3,7 @@
     "path": "~/Documents/R projects/RBD02/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "203621217",
+    "hash": "1625394951",
     "contents": "",
     "dirty": false,
     "created": 1612896508408.0,
@@ -11,14 +11,16 @@
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "3,12",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612896504,
+    "lastKnownWriteTime": 1612898012,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612896504,
+    "last_content_update": 1612898012242,
     "read_only": false,
     "read_only_alternatives": []
 }
